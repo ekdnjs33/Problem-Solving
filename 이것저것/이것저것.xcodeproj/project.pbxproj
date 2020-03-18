@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C177CB8724194C930087B5BF /* bj2751.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C177CB8624194C930087B5BF /* bj2751.cpp */; };
+		C1054FBD24225530008BDA56 /* bj10845.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C1054FBC24225530008BDA56 /* bj10845.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,11 +23,22 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		C1054FB224221FCE008BDA56 /* bj11004.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj11004.cpp; sourceTree = "<group>"; };
+		C1054FB6242233CA008BDA56 /* bj10828.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10828.cpp; sourceTree = "<group>"; };
+		C1054FB824223C99008BDA56 /* bj9012.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj9012.cpp; sourceTree = "<group>"; };
+		C1054FBA2422480D008BDA56 /* bj10799.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10799.cpp; sourceTree = "<group>"; };
+		C1054FBC24225530008BDA56 /* bj10845.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10845.cpp; sourceTree = "<group>"; };
 		C177CB7624193E4E0087B5BF /* 이것저것 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "이것저것"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C177CB8024193EA00087B5BF /* bj10430.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10430.cpp; sourceTree = "<group>"; };
 		C177CB82241942860087B5BF /* bj2609.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj2609.cpp; sourceTree = "<group>"; };
 		C177CB84241949F80087B5BF /* bj9613.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj9613.cpp; sourceTree = "<group>"; };
 		C177CB8624194C930087B5BF /* bj2751.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj2751.cpp; sourceTree = "<group>"; };
+		C177CB88241A3E180087B5BF /* bj11650.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj11650.cpp; sourceTree = "<group>"; };
+		C177CB8D241FAD360087B5BF /* bj11651.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj11651.cpp; sourceTree = "<group>"; };
+		C177CB8F241FAF4C0087B5BF /* bj10814.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10814.cpp; sourceTree = "<group>"; };
+		C177CB91241FB8DF0087B5BF /* bj10825.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10825.cpp; sourceTree = "<group>"; };
+		C177CB93241FD1850087B5BF /* bj10989.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10989.cpp; sourceTree = "<group>"; };
+		C177CB95241FDB290087B5BF /* bj11652.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj11652.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +75,17 @@
 				C177CB82241942860087B5BF /* bj2609.cpp */,
 				C177CB84241949F80087B5BF /* bj9613.cpp */,
 				C177CB8624194C930087B5BF /* bj2751.cpp */,
+				C177CB88241A3E180087B5BF /* bj11650.cpp */,
+				C177CB8D241FAD360087B5BF /* bj11651.cpp */,
+				C177CB8F241FAF4C0087B5BF /* bj10814.cpp */,
+				C177CB91241FB8DF0087B5BF /* bj10825.cpp */,
+				C177CB93241FD1850087B5BF /* bj10989.cpp */,
+				C177CB95241FDB290087B5BF /* bj11652.cpp */,
+				C1054FB224221FCE008BDA56 /* bj11004.cpp */,
+				C1054FB6242233CA008BDA56 /* bj10828.cpp */,
+				C1054FB824223C99008BDA56 /* bj9012.cpp */,
+				C1054FBA2422480D008BDA56 /* bj10799.cpp */,
+				C1054FBC24225530008BDA56 /* bj10845.cpp */,
 			);
 			path = "이것저것";
 			sourceTree = "<group>";
@@ -125,7 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C177CB8724194C930087B5BF /* bj2751.cpp in Sources */,
+				C1054FBD24225530008BDA56 /* bj10845.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
