@@ -6,10 +6,6 @@
 	objectVersion = 50;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		C1D97EB02424D9A5005784CB /* bj11655.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C1D97EAF2424D9A5005784CB /* bj11655.cpp */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		C177CB7424193E4E0087B5BF /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -39,6 +35,9 @@
 		C177CB91241FB8DF0087B5BF /* bj10825.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10825.cpp; sourceTree = "<group>"; };
 		C177CB93241FD1850087B5BF /* bj10989.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10989.cpp; sourceTree = "<group>"; };
 		C177CB95241FDB290087B5BF /* bj11652.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj11652.cpp; sourceTree = "<group>"; };
+		C1BD8175242B4EC3003C6738 /* bj10824.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10824.cpp; sourceTree = "<group>"; };
+		C1BD8177242B536C003C6738 /* bj11656.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj11656.cpp; sourceTree = "<group>"; };
+		C1BD8179242B582F003C6738 /* bj1406.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj1406.cpp; sourceTree = "<group>"; };
 		C1D97EA52424BFEB005784CB /* bj10866.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10866.cpp; sourceTree = "<group>"; };
 		C1D97EA72424C4D8005784CB /* bj10808.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10808.cpp; sourceTree = "<group>"; };
 		C1D97EA92424C637005784CB /* bj10809.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10809.cpp; sourceTree = "<group>"; };
@@ -98,6 +97,9 @@
 				C1D97EAB2424CD78005784CB /* bj10820.cpp */,
 				C1D97EAD2424D7F4005784CB /* bj2743.cpp */,
 				C1D97EAF2424D9A5005784CB /* bj11655.cpp */,
+				C1BD8175242B4EC3003C6738 /* bj10824.cpp */,
+				C1BD8177242B536C003C6738 /* bj11656.cpp */,
+				C1BD8179242B582F003C6738 /* bj1406.cpp */,
 			);
 			path = "이것저것";
 			sourceTree = "<group>";
@@ -159,7 +161,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C1D97EB02424D9A5005784CB /* bj11655.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
