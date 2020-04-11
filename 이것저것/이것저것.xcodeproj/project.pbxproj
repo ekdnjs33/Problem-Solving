@@ -6,6 +6,10 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		C1BD818B242F9853003C6738 /* bj2089.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C1BD8188242F958A003C6738 /* bj2089.cpp */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		C177CB7424193E4E0087B5BF /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -38,6 +42,13 @@
 		C1BD8175242B4EC3003C6738 /* bj10824.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10824.cpp; sourceTree = "<group>"; };
 		C1BD8177242B536C003C6738 /* bj11656.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj11656.cpp; sourceTree = "<group>"; };
 		C1BD8179242B582F003C6738 /* bj1406.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj1406.cpp; sourceTree = "<group>"; };
+		C1BD817C242DEAFD003C6738 /* bj1158.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj1158.cpp; sourceTree = "<group>"; };
+		C1BD817E242DF905003C6738 /* bj1168.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj1168.cpp; sourceTree = "<group>"; };
+		C1BD8180242DFED2003C6738 /* bj11005.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj11005.cpp; sourceTree = "<group>"; };
+		C1BD8182242E0807003C6738 /* bj2745.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj2745.cpp; sourceTree = "<group>"; };
+		C1BD8184242E0BE7003C6738 /* bj1373.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj1373.cpp; sourceTree = "<group>"; };
+		C1BD8186242F8C39003C6738 /* bj1212.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj1212.cpp; sourceTree = "<group>"; };
+		C1BD8188242F958A003C6738 /* bj2089.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj2089.cpp; sourceTree = "<group>"; };
 		C1D97EA52424BFEB005784CB /* bj10866.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10866.cpp; sourceTree = "<group>"; };
 		C1D97EA72424C4D8005784CB /* bj10808.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10808.cpp; sourceTree = "<group>"; };
 		C1D97EA92424C637005784CB /* bj10809.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bj10809.cpp; sourceTree = "<group>"; };
@@ -100,6 +111,13 @@
 				C1BD8175242B4EC3003C6738 /* bj10824.cpp */,
 				C1BD8177242B536C003C6738 /* bj11656.cpp */,
 				C1BD8179242B582F003C6738 /* bj1406.cpp */,
+				C1BD817C242DEAFD003C6738 /* bj1158.cpp */,
+				C1BD817E242DF905003C6738 /* bj1168.cpp */,
+				C1BD8180242DFED2003C6738 /* bj11005.cpp */,
+				C1BD8182242E0807003C6738 /* bj2745.cpp */,
+				C1BD8184242E0BE7003C6738 /* bj1373.cpp */,
+				C1BD8186242F8C39003C6738 /* bj1212.cpp */,
+				C1BD8188242F958A003C6738 /* bj2089.cpp */,
 			);
 			path = "이것저것";
 			sourceTree = "<group>";
@@ -161,6 +179,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C1BD818B242F9853003C6738 /* bj2089.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
