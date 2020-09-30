@@ -8,7 +8,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "3D5A01E8-A14A-4758-B99E-A5CBBFD0D90D"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7; &#x1100;&#x1175;&#x110e;&#x1169;(&#x110b;&#x1175;&#x11ab;&#x1111;&#x1173;&#x1105;&#x1165;&#x11ab;)/main.cpp"
